@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there! I'm Samuel Santoso👋
+
+![Samuel](gambar/Samuel%20Santoso%20old.png)
 
 <!--
 **sammyXDnew/sammyXDnew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
