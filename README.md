@@ -25,7 +25,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sammyXDnew&show_icons=true&theme=radium" alt="Samuel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sammyXDnew&show_icons=true&theme=radium&v=1" alt="Samuel's GitHub Stats" />
 </p>
 
 ---
